@@ -5,27 +5,28 @@
 Eu sou estudante de análise e desenvolvimento de sistemas
 
 Tenho conhecimento em:
-  ~~~Python 🐍
+  ~~~
+  Python 🐍
   GO
   Javascript ⚡
   HTML/CSS 
   ~~~
 Meu inglês é intermediário (B1)
 Compreendo um pouco de alemão, mais não muito
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 # English
 
 # Deutsch
-
 
 
 <!--
