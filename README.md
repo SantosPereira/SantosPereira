@@ -13,14 +13,7 @@ Tenho conhecimento em:
   ~~~
 Meu inglês é intermediário (B1)
 Compreendo um pouco de alemão, mais não muito
----
----
----
----
----
----
----
----
+
 ---
 ---
 ---
@@ -35,20 +28,6 @@ With knowlegend in:
   Javascript ⚡
   HTML/CSS 
   ~~~
----
----
----
----
----
----
----
----
----
----
----
-# Deutsch
-  
-
 <!--
 **SantosPereira/SantosPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
