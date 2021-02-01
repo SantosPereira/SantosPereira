@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[English](#English) [Deutsch](#Deutsch)
+[English](#English)   |   [Deutsch](#Deutsch)
 
 Eu sou estudante de análise e desenvolvimento de sistemas
 
@@ -26,8 +26,28 @@ Compreendo um pouco de alemão, mais não muito
 ---
 # English
 
-# Deutsch
+I'm a student of systems analysis and development at the Federal Institute of Education, Science and Technology Pernambuco. (Brazil)
 
+With knowlegend in:
+   ~~~
+  Python 🐍
+  GO
+  Javascript ⚡
+  HTML/CSS 
+  ~~~
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+# Deutsch
+  
 
 <!--
 **SantosPereira/SantosPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
