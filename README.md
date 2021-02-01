@@ -15,8 +15,6 @@ Meu inglês é intermediário (B1)
 Compreendo um pouco de alemão, mais não muito
 
 ---
----
----
 # English
 
 I'm a student of systems analysis and development at the Federal Institute of Education, Science and Technology Pernambuco. (Brazil)
