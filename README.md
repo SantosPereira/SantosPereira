@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+![English]{### English} ![Deutsch]{### Deutsch}
+
 Eu sou estudante de análise e desenvolvimento de sistemas
 
 Tenho conhecimento em:
@@ -10,6 +12,16 @@ Tenho conhecimento em:
   
 Meu inglês é intermediário (B1)
 Compreendo um pouco de alemão, mais não muito
+
+
+
+
+### English
+
+### Deutsch
+
+
+
 <!--
 **SantosPereira/SantosPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
