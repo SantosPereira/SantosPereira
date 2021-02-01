@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Eu sou estudante de análise e desenvolvimento de sistema
+Eu sou estudante de análise e desenvolvimento de sistemas
 
 Tenho conhecimento em:
   Python 🐍
