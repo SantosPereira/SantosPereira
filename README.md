@@ -12,7 +12,7 @@ Tenho conhecimento em:
   HTML/CSS 
   ~~~
 Meu inglês é intermediário (B1)
-Compreendo um pouco de alemão, mais não muito
+Compreendo um pouco de alemão (A2)
 
 ---
 # English
