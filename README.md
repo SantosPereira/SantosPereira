@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[English](#English)
+[English](english.md)
 
 Eu sou estudante de análise e desenvolvimento de sistemas
 
@@ -14,18 +14,6 @@ Tenho conhecimento em:
 Meu inglês é intermediário (B1)
 Compreendo um pouco de alemão (A2)
 
----
-# English
-
-I'm student of systems analysis and development at the Federal Institute of Education, Science and Technology of Pernambuco. (Brazil)
-
-With knowlegend in:
-   ~~~
-  Python 🐍
-  GO
-  Javascript ⚡
-  HTML/CSS 
-  ~~~
 <!--
 **SantosPereira/SantosPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
