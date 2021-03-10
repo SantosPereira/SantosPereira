@@ -1,9 +1,8 @@
 # Hello World 👋
-
-
 <details id="english">
   <summary>English</summary>
- 
+  <br>
+
 [I am](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) a student of systems analysis and development at the Federal Institute of Education, Science and Technology of Pernambuco - IFPE (Jaboatão do Guararapes),
 pythonist in essence discovering technology.
 
