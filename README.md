@@ -4,12 +4,11 @@
 <details id="english">
   <summary>English</summary>
  
-[Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE (Jaboatão do Guararapes),
-pythonista em essência descobrindo a tecnologia. 
-
+[I am](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) a student of systems analysis and development at the Federal Institute of Education, Science and Technology of Pernambuco - IFPE (Jaboatão do Guararapes),
+pythonist in essence discovering technology.
 
 ---
-### Linguagens e ferramentas
+### Languages and Tools
   ~~~
   Python 🐍
   
