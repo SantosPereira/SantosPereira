@@ -2,14 +2,23 @@
 
 [English](english.md)
 
-Eu sou estudante de análise e desenvolvimento de sistemas
+[Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE (Jaboatão do Guararapes),
+pythonista em essência descobrindo a tecnologia. 
 
-Tenho conhecimento em:
+### Linguagens e ferramentas
   ~~~
   Python 🐍
-  GO
+  
+  GO 🚀
+  
   Javascript ⚡
-  HTML/CSS 
+    NodeJS
+    Express
+    Nodemon
+  
+  HTML/CSS 🎨
+    Bootstrap
+    Materialize
   ~~~
 
 <!--
