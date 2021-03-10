@@ -5,6 +5,8 @@
 [Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE (Jaboatão do Guararapes),
 pythonista em essência descobrindo a tecnologia. 
 
+
+---
 ### Linguagens e ferramentas
   ~~~
   Python 🐍
@@ -20,7 +22,7 @@ pythonista em essência descobrindo a tecnologia.
     Bootstrap
     Materialize
   ~~~
-
+---
 <!--
 **SantosPereira/SantosPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
