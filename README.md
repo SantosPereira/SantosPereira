@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[English](#English)   |   [Deutsch](#Deutsch)
+[English](#English)
 
 Eu sou estudante de análise e desenvolvimento de sistemas
 
