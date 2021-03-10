@@ -3,9 +3,7 @@
 
 <details id="english">
   <summary>English</summary>
-  
-# Hello World 👋
-
+ 
 [Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE (Jaboatão do Guararapes),
 pythonista em essência descobrindo a tecnologia. 
 
@@ -26,6 +24,7 @@ pythonista em essência descobrindo a tecnologia.
     Bootstrap
     Materialize
   ~~~
+<br><br><br><br>
 ---
 </details>
 
