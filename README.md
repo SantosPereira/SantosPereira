@@ -11,8 +11,6 @@ Tenho conhecimento em:
   Javascript ⚡
   HTML/CSS 
   ~~~
-Meu inglês é intermediário (B1)
-Compreendo um pouco de alemão (A2)
 
 <!--
 **SantosPereira/SantosPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
