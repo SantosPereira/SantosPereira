@@ -21,6 +21,9 @@ pythonist in essence discovering technology.
   HTML/CSS 🎨
     Bootstrap
     Materialize
+    
+  DataBase 📂
+    MySQL 🐬
   ~~~
 <br><br><br><br>
 ---
@@ -45,6 +48,9 @@ pythonista em essência descobrindo a tecnologia.
   HTML/CSS 🎨
     Bootstrap
     Materialize
+  
+  DataBase 📂
+    MySQL 🐬
   ~~~
 ---
 <!--
