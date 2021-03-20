@@ -3,7 +3,7 @@
   <summary>English</summary>
   <br>
 
-[I am](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) a student of systems analysis and development at the Federal Institute of Education, Science and Technology of Pernambuco - IFPE (Jaboatão do Guararapes),
+[I am](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) a student of systems analysis and development at the Federal Institute of Education, Science and Technology of Pernambuco - IFPE (Jaboatão dos Guararapes),
 pythonist in essence discovering technology.
 
 ---
@@ -29,7 +29,7 @@ pythonist in essence discovering technology.
 ---
 </details>
 
-[Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE (Jaboatão do Guararapes),
+[Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE (Jaboatão dos Guararapes),
 pythonista em essência descobrindo a tecnologia. 
 
 
