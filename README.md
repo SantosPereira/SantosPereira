@@ -6,25 +6,15 @@
 ### Linguagens e ferramentas
   ~~~
   Python 🐍
-  
-  GO 🚀
-  
   Javascript ⚡
-    NodeJS
-    Express
-    Nodemon
-  
   HTML/CSS 🎨
-    Bootstrap
-    Materialize
-  
-  DataBase 📂
-    MySQL 🐬
+  GO 🚀
+  MySQL 🐬
   ~~~
 ---
 
 
-![Linguagens que mais uso](https:----------remover---------//github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&custom_title=Linguagens%20Que%20Mais%20Uso&bg_color=)
+![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&custom_title=Linguagens%20Que%20Mais%20Uso&bg_color=)
 
 ![santospereira github stats](https://github-readme-stats.vercel.app/api?username=santospereira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
