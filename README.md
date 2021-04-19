@@ -25,7 +25,7 @@
 ---
 
 
-![santospereira github stats](https://github-readme-stats.vercel.app/api?username=santospereira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
 [![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&custom_title=Linguagens%20Que%20Mais%20Uso&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
+
+![santospereira github stats](https://github-readme-stats.vercel.app/api?username=santospereira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
