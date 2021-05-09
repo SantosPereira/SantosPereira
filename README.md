@@ -6,6 +6,7 @@
 ### Linguagens e ferramentas
   ~~~
   Python 🐍
+  Java 
   Javascript ⚡
   HTML/CSS 🎨
   GO 🚀
