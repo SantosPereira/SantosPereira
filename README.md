@@ -3,8 +3,6 @@
 [Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas, astrônomo amador e fanzão de prog kk Já quis ser astronauta, matemático, professor, rockstar (ainda tem uma partezinha disso tudo dentro de mim), mas agora minha criatividade e entusiamo fluem através de código.
 
 ---
-
-&nbsp;
 ### Linguagens e ferramentas
 
 - 🐍 Python
@@ -18,7 +16,6 @@
 &nbsp;&nbsp;&nbsp;![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&custom_title=Linguagens%20Que%20Mais%20Uso&bg_color=) &nbsp;&nbsp;&nbsp; ![santospereira github stats](https://github-readme-stats.vercel.app/api?username=santospereira&&show_icons=true&title_color=000&icon_color=2ab02f&text_color=545754&bg_color=fffff) 
 ---
 
-&nbsp;
 ### Contato
 [:page_facing_up: LinkedIn](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) | [:camera:  Instagram](https://www.instagram.com/pedro.hsp0/) |    [:email: E-mail](mailto://pedrohenriquelemam@gmail.com)
 
