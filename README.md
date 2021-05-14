@@ -17,7 +17,7 @@
 ---
 
 ## Contato
-[***:page_facing_up: LinkedIn***](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) | [***:camera:  Instagram***](https://www.instagram.com/pedro.hsp0/) |    [***:email: E-mail***](mailto://pedrohenriquelemam@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; :gb: :de:
+[***:page_facing_up: LinkedIn***](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) **|** [***:camera:  Instagram***](https://www.instagram.com/pedro.hsp0/) **|** [***:email: E-mail***](mailto://pedrohenriquelemam@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; :gb: :de:
 
 <!--
 ![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&custom_title=Linguagens%20Que%20Mais%20Uso&bg_color=)
