@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas, astrônomo amador e fanzão de prog kk Já quis ser astronauta, matemático, professor, rockstar (ainda tem uma partezinha disso tudo dentro de mim), mas agora minha criatividade e entusiamo fluem através de código.
+[Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas, astrônomo amador e fã de prog kk Já quis ser astronauta, matemático, professor, rockstar (ainda tem uma partezinha disso tudo dentro de mim), mas agora minha criatividade e entusiamo fluem através de código.
 
 ---
 ### Linguagens e ferramentas
