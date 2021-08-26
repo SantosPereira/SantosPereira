@@ -13,7 +13,11 @@
 - :floppy_disk: Banco de Dados-->
 
 ---
-![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&custom_title=Linguagens%20Que%20Mais%20Uso&bg_color=) ![santospereira github stats](https://github-readme-stats.vercel.app/api?username=santospereira&&show_icons=true&title_color=000&icon_color=2ab02f&text_color=545754&bg_color=fffff) 
+<div>
+  <a href="https://github.com/santospereira">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=santospereira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&langs_count=8&theme=vue"/>
+</div>
 ---
 
 ## Contato
