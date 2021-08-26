@@ -15,8 +15,8 @@
 ---
 <div>
   <a href="https://github.com/santospereira">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=santospereira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&langs_count=8&theme=vue"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=santospereira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&langs_count=8&theme=vue"/>
 </div>
 ---
 
