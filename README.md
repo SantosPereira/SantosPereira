@@ -16,10 +16,21 @@
 
 <div>
   <a href="https://github.com/santospereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santospereira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&langs_count=7&theme=vue"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=santospereira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
+<div>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/python.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/go-lang.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/java.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/javascript.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/brands.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/nodejs.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/docker.png"/>
+    
+</div>
+  
 ---
 
 ## Contato
