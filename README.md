@@ -1,6 +1,7 @@
 # Hello World 👋
 
 [Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas, astrônomo amador e fã de prog kk Já quis ser astronauta, matemático, professor, rockstar, agora escrevo código.
+
 <!--
 ---
 ### Linguagens e ferramentas
@@ -33,10 +34,13 @@
   
 ---
 
-## Contato
-[***:page_facing_up: LinkedIn***](https://www.linkedin.com/in/santos-pereira) **|** [***:camera:  Instagram***](https://www.instagram.com/pedro.hsp0/) **|** [***:email: E-mail***](mailto://pedrohenriquelemam@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; :gb: :de:
+## Contato   :gb: :de:
 
-<!--
-![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&custom_title=Linguagens%20Que%20Mais%20Uso&bg_color=)
+<div> 
+  <a href="https://www.linkedin.com/in/santos-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/pedro.hsp0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto://pedrohenriquelemam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+  
 
--->
+ 
