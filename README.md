@@ -17,7 +17,7 @@
 <div>
   <a href="https://github.com/santospereira">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=santospereira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&langs_count=7&theme=vue"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospereira&layout=compact&langs_count=7&custom_title=Linguagens%20Que%20Mais%20Uso&theme=vue"/>
 </div>
 
 <div>
