@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas, astrônomo amador e fã de prog kk Já quis ser astronauta, matemático, professor, rockstar, agora escrevo código.
+[Eu](https://www.linkedin.com/in/pedro-henrique-dos-santos-pereira-245b12174) sou estudante de análise e desenvolvimento de sistemas, músico e astrônomo amador. Já quis ser astronauta, matemático, professor, rockstar, agora escrevo código.
 
 <!--
 ---
