@@ -25,3 +25,8 @@ Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, alé
   <a href="https://www.instagram.com/pedro.hsp0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto://pedrohenriquelemam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<!--
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=LucasXu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+Footer
+-->
