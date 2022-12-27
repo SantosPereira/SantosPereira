@@ -18,7 +18,7 @@ Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, alé
 
 ---
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=SantosPereira&hide_title=false&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=santospereira&api_domain=wakapi.dev&bg_color=fffff&title_color=2F855A&icon_color=2F855A&text_color=aaaaa&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 ## Contato   :gb: :de:
 
