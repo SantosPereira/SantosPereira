@@ -7,11 +7,14 @@ Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, alé
 ## Tecnologias que costumo usar:
 <div>
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/python.png"/>
-  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/go-lang.png"/>
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/java.png"/>
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/javascript.png"/>
-  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/brands.png"/>
-  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/nodejs.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/react.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/julia.png"/>
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/ruby.png"/>
+  <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/brands.png"/> -->
+  <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/nodejs.png"/> -->
+  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/go-lang.png"/>
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/docker.png"/>
     
 </div>
