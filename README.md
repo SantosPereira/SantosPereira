@@ -21,7 +21,7 @@ Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, alé
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=santospereira&api_domain=wakapi.dev&bg_color=fffff&title_color=2F855A&icon_color=2F855A&text_color=aaaaa&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=santospereira&api_domain=wakapi.dev&bg_color=fffff&title_color=2F855A&icon_color=2F855A&text_color=aaaaa&custom_title=Tempo%20codificando%20durante%20essa%20semana&layout=compact)
 
 ## Contato   :gb: :de:
 
