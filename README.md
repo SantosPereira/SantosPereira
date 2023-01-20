@@ -23,6 +23,8 @@ Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, alé
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=santospereira&api_domain=wakapi.dev&bg_color=fffff&title_color=2F855A&icon_color=2F855A&text_color=aaaaa&custom_title=Tempo%20codificando%20durante%20essa%20semana&layout=compact)
 
+<!-- ![](https://wakapi.dev/api/badge/SantosPereira/SantosPereira/interval:30_days?label=%C3%9Altimos%2030%20dias) -->
+
 ## Contato   :gb: :de:
 
 <div> 
