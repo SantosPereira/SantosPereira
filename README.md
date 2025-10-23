@@ -1,6 +1,6 @@
 # Hello World 👋
 
-Me chamo Pedro e sou desenvolvedor web back-end com umas skills de front.
+Me chamo Pedro e sou desenvolvedor web back-end.
 <!--
 Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, além disso estou estudando Machine Learning e me aprofundando em Web. Admito que não consigo ver uma tecnologia que pra mim é nova e não testar, por isso tem de um tudo aí na aba de repositórios. Vale dar uma olhada
 
