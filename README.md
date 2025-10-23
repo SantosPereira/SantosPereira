@@ -1,7 +1,7 @@
 # Hello World 👋
 
 Me chamo Pedro e sou desenvolvedor web back-end com umas skills de front.
-
+<!--
 Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, além disso estou estudando Machine Learning e me aprofundando em Web. Admito que não consigo ver uma tecnologia que pra mim é nova e não testar, por isso tem de um tudo aí na aba de repositórios. Vale dar uma olhada
 
 ## Tecnologias que costumo usar:
@@ -13,12 +13,12 @@ Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, alé
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/julia.jpg"/>
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/ruby.jpg"/>
   <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/brands.png"/> -->
-  <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/nodejs.png"/> -->
-  <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/go-lang.png"/>
+  <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/nodejs.png"/> -->-->
+ <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/go-lang.png"/>
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/docker.png"/>
     
 </div>
-
+-->
 ---
 
 <!--
@@ -26,7 +26,7 @@ Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, alé
 
  ![](https://wakapi.dev/api/badge/SantosPereira/SantosPereira/interval:30_days?label=%C3%9Altimos%2030%20dias) -->
 
-## Contato   :gb: :de:
+## Contato 
 
 <div> 
   <a href="https://www.linkedin.com/in/santos-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
