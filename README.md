@@ -13,7 +13,7 @@ Atualmente estou migrando para o Ubuntu e conhecendo as maravilhas do Unix, alé
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/julia.jpg"/>
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/ruby.jpg"/>
   <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/brands.png"/> -->
-  <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/nodejs.png"/> -->-->
+  <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/nodejs.png"/> -->
  <!-- <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/go-lang.png"/>
   <img height="50em" src="https://github.com/SantosPereira/SantosPereira/blob/main/media/icons/docker.png"/>
     
